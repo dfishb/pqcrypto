@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:assembly_x86_768"
+      name = "assembly_x86_768">
+      <Group
+         location = "group:relic-asm-dev-src"
+         name = "relic-asm-dev-src">
+         <FileRef
+            location = "group:build_neon.sh">
+         </FileRef>
+         <FileRef
+            location = "group:mul_test.c">
+         </FileRef>
+         <FileRef
+            location = "group:relic_fp_add_low.s">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:2_3_386_242_2_-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:a.out">
+      </FileRef>
+      <FileRef
+         location = "group:a.out.dSYM">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2_or.c">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2_gnu_gcc.c">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2_or2.c">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2.c">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2.s">
+      </FileRef>
+      <FileRef
+         location = "group:mul_3_768 with hardcoding.rtf">
+      </FileRef>
+      <FileRef
+         location = "group:paths.pyc">
+      </FileRef>
+      <FileRef
+         location = "group:pqcrypto11_df.sage">
+      </FileRef>
+      <FileRef
+         location = "group:pqcrypto11_df.spyx">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:2_3_130_81_22_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:2_3_22_15_1_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:2_3_258_161_186_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:2_3_41_81_22_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:2_3_514_323_353_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:2_3_6_1_1_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:2_3_97_15_1_-1.txt">
+   </FileRef>
+   <FileRef
+      location = "group:pqcrypto11.sage">
+   </FileRef>
+   <FileRef
+      location = "group:a.out">
+   </FileRef>
+   <FileRef
+      location = "group:a.out.dSYM">
+   </FileRef>
+   <FileRef
+      location = "group:gfp2.c">
+   </FileRef>
+   <FileRef
+      location = "group:gfp2.pxd">
+   </FileRef>
+   <FileRef
+      location = "group:paths.py">
+   </FileRef>
+   <FileRef
+      location = "group:paths.pyc">
+   </FileRef>
+   <FileRef
+      location = "group:dieter.sage">
+   </FileRef>
+   <FileRef
+      location = "group:pqcrypto11_df.sage">
+   </FileRef>
+   <FileRef
+      location = "group:pqcrypto11_df.spyx">
+   </FileRef>
+   <Group
+      location = "group:arm"
+      name = "arm">
+      <FileRef
+         location = "group:2_3_121_73_22_-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:2_3_258_161_186_-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:2_3_386_242_2_-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:arm-768.s">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2.c">
+      </FileRef>
+      <FileRef
+         location = "group:../../../../../../Desktop/stringpermute.c">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:parameters"
+      name = "parameters">
+      <FileRef
+         location = "group:COPYING">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2.c">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2.pxd">
+      </FileRef>
+      <FileRef
+         location = "group:paths.py">
+      </FileRef>
+      <FileRef
+         location = "group:pqcrypto11.sage">
+      </FileRef>
+      <FileRef
+         location = "group:pqcrypto11.spyx">
+      </FileRef>
+      <FileRef
+         location = "group:README">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:arm-242"
+      name = "arm-242">
+      <FileRef
+         location = "group:build.sh">
+      </FileRef>
+      <FileRef
+         location = "group:neon_mpz.c">
+      </FileRef>
+      <FileRef
+         location = "group:NEON.c">
+      </FileRef>
+      <FileRef
+         location = "group:build_neon.sh">
+      </FileRef>
+      <FileRef
+         location = "group:2_3_130_81_22_-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:2_3_121_73_22_-1.txt">
+      </FileRef>
+      <FileRef
+         location = "group:arm-242.s">
+      </FileRef>
+      <FileRef
+         location = "group:gfp2.c">
+      </FileRef>
+   </Group>
+</Workspace>
